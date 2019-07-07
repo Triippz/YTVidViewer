@@ -33,7 +33,10 @@ source venv/bin/acitvate
 ```bash
 pip install -r requirements.txt
 ```
-
+- Run the app
+```bash
+python3 app.py
+```
 - Choose the appropriate settings for the project.
 
 
